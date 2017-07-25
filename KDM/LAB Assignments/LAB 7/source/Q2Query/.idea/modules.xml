@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Q2Query.iml" filepath="$PROJECT_DIR$/.idea/Q2Query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q2Query/.idea/modules/q2query.iml" filepath="$PROJECT_DIR$/Q2Query/.idea/modules/q2query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q2Query/.idea/modules/q2query-build.iml" filepath="$PROJECT_DIR$/Q2Query/.idea/modules/q2query-build.iml" />
+    </modules>
+  </component>
+</project>
